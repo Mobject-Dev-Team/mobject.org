@@ -53,4 +53,4 @@ Mobject has been created for TwinCAT. Mobject uses reflection, TwinCAT Pragmas a
 
 ## Coding style and convention
 
-Mobject follows the styling convention found [here](https://benhar-dev.github.io/coding-convention/#/)
+Mobject follows the styling convention found [here](https://mobject-dev-team.github.io/mobject-coding-convention/#/)

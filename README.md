@@ -24,21 +24,28 @@ mobject's goal is to be a lightweight solution to typical oop problems.
 
 In summary, Mobject offers a comprehensive and versatile solution to common OOP problems, empowering developers to create efficient, organized, and maintainable code across a wide range of applications. By harnessing the power of Mobject and its growing ecosystem, developers can elevate their programming skills and build better software.
 
-## Available libraries
+## Available libraries (In Alpha)
 
-- [mobject-collections](http://collections.mobject.org)
-- [mobject-converters](http://converters.mobject.org)
-- [mobject-disposable](http://disposable.mobject.org)
-- [mobject-enumerable](http://enumerable.mobject.org)
-- [mobject-events](http://events.mobject.org)
-- [mobject-json](http://json.mobject.org)
+- [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
+- [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
+- [mobject-disposable](https://mobject-dev-team.github.io/mobject-disposable/#/)
+- [mobject-enumerable](https://mobject-dev-team.github.io/mobject-enumerable/#/)
+- [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
+- [mobject-json](https://mobject-dev-team.github.io/mobject-json/#/)
 
-## Coming soon...
+
+## Mobject Companion App (In Alpha)
+
+- [mobject-app](https://github.com/Mobject-Dev-Team/mobject-app)
+
+## Libraries Coming soon. (These are work in progress, so there will be missing documentation and issues!)
 
 - mobject-cyclic
-- [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
-- [mobject-iot](https://github.com/Mobject-Dev-Team/mobject-iot)
-- [mobject-condition-monitoring](https://github.com/Mobject-Dev-Team/mobject-condition-monitoring)
+- [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
+- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
+- mobject-promises
+- mobject-iot
+- mobject-condition-monitoring
 - mobject-motion
 - mobject-documentation-generator (used to create the github library documentation files)
 - CI/CD

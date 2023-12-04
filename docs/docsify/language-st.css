@@ -1,31 +1,34 @@
 .token.class-name {
-    color:blue;
+    color: var(--docsify_language_class_name_color,blue);
 }
 
 .token.keyword {
-    color:blue;
+    color: var(--docsify_language_keyword_color,blue);
 }
 
 .token.variable {
-    color:blue;
+    color: var(--docsify_language_variable_color,blue);
 }
 
 .token.comment {
-    color:green;
+    color:var(--docsify_language_comment_color,green);
 }
 
+.token.punctuation {
+    color:var(--docsify_language_punctuation_color,rgb(82, 82, 82));
+}
 
 [data-lang="declaration"] {
     margin-bottom: 0px !important;
 }
 
 [data-lang="body"] {
-    border-top: 1px solid lightgrey;
+    border-top: 1px solid var(--docsify_language_code_divide,lightgrey);
     margin-top: 0px !important;
 }
 
 
 [data-lang="body"] + [data-lang="declaration"] {
-    border-top: 1px solid lightgrey;
+    border-top: 1px solid var(--docsify_language_code_divide,lightgrey);
     margin-top: 0px !important;
 }

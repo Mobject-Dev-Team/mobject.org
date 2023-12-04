@@ -1,9 +1,7 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/logo-light.svg">
-  <img alt="mobject main logo" img width="460" src="/images/logo-light.svg">
-</picture>
+  <picture>
+    <img class="top-logo" alt="mobject main logo" >
+  </picture>
 </p>
 
 > A framework and guide for writing object oriented programs in structured text.

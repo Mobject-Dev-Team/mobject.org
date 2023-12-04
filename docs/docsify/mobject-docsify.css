@@ -39,3 +39,7 @@ pre {
 a {
     text-decoration: none;
 }
+
+.top-logo {
+	content: var(--docsify_logo);
+}

@@ -24,6 +24,7 @@ window.$docsify = {
       docsify_language_comment_color: "rgb(136, 137, 139)",
       docsify_language_code_divide: "rgb(23, 56, 84)",
       docsify_language_punctuation_color: "white",
+      docsify_logo: 'url("../images/logo-dark.svg")',
     },
     light: {
       docsify_sidebar_li_active: "rgb(236, 45, 91)",
@@ -34,6 +35,7 @@ window.$docsify = {
       docsify_language_comment_color: "green",
       docsify_language_code_divide: "lightgrey",
       docsify_language_punctuation_color: "rgb(82, 82, 82)",
+      docsify_logo: 'url("../images/logo-light.svg")',
     },
   },
 };

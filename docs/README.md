@@ -28,35 +28,6 @@ mobject's goal is to be a lightweight solution to typical oop problems.
 
 In summary, Mobject offers a comprehensive and versatile solution to common OOP problems, empowering developers to create efficient, organized, and maintainable code across a wide range of applications. By harnessing the power of Mobject and its growing ecosystem, developers can elevate their programming skills and build better software.
 
-## Available libraries (In Beta)
-
-- [mobject-disposable](https://mobject-dev-team.github.io/mobject-disposable/#/)
-
-## Available libraries (In Alpha)
-
-- [mobject-collections](https://mobject-dev-team.github.io/mobject-collections/#/)
-- [mobject-converters](https://mobject-dev-team.github.io/mobject-converters/#/)
-- [mobject-enumerable](https://mobject-dev-team.github.io/mobject-enumerable/#/)
-- [mobject-events](https://mobject-dev-team.github.io/mobject-events/#/)
-- [mobject-json](https://mobject-dev-team.github.io/mobject-json/#/)
-
-## Mobject Companion App (In Alpha)
-
-- [mobject-app](https://github.com/Mobject-Dev-Team/mobject-app)
-
-## Libraries Coming soon. (These are work in progress, so there will be missing documentation and issues!)
-
-- mobject-build-server
-- mobject-documentation-generator (used to create the github library documentation files)
-- [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
-- mobject-condition-monitoring
-- mobject-cyclic
-- mobject-iot
-- mobject-motion
-- mobject-promises
-- [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
-- [mobject-server](https://github.com/Mobject-Dev-Team/mobject-server)
-
 ## Important notes regarding this project
 
 We are currently in the early stages of developing this software. In the spirit of transparency and community collaboration, we have made this a public repository to allow visibility into our ongoing work. Please be aware that this project is in its alpha phase and we strongly advise against using any part of it in production environments. Any decision to implement libraries that are in beta or release stages should be made cautiously and at your own risk.
@@ -64,7 +35,3 @@ We are currently in the early stages of developing this software. In the spirit 
 Please feel free to contribute, copy and use code.
 
 Mobject has been created for TwinCAT. Mobject may use reflection, TwinCAT Pragmas and libraries so porting to other controllers may not be possible.
-
-## Coding style and convention
-
-Mobject follows the styling convention found [here](https://mobject-dev-team.github.io/mobject-coding-convention/#/)

@@ -5,12 +5,12 @@
 - Libraries (Beta)
 
   - [mobject-disposable](https://disposable.mobject.org/#/)
+  - [mobject-enumerable](http://enumerable.mobject.org)
 
 - Libraries (Alpha)
 
   - [mobject-collections](http://collections.mobject.org)
   - [mobject-converters](http://converters.mobject.org)
-  - [mobject-enumerable](http://enumerable.mobject.org)
   - [mobject-events](http://events.mobject.org)
   - [mobject-json](http://json.mobject.org)
 

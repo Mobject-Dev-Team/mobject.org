@@ -15,6 +15,7 @@
 
   - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
   - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
+  - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
   - [mobject-server](https://github.com/Mobject-Dev-Team/mobject-server)
 
 - Libraries (Pre-Alpha)
@@ -25,7 +26,6 @@
   - [mobject-cyclic](tba.md)
   - [mobject-iot](tba.md)
   - [mobject-motion](tba.md)
-  - [mobject-promises](tba.md)
 
 - Companion App (Alpha)
 

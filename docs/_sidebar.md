@@ -16,6 +16,7 @@
   - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
   - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
   - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
+  - [mobject-serialization](https://github.com/Mobject-Dev-Team/mobject-serialization)
   - [mobject-server](https://github.com/Mobject-Dev-Team/mobject-server)
 
 - Libraries (Pre-Alpha)

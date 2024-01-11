@@ -14,6 +14,7 @@
 - Libraries (Alpha)
 
   - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
+  - [mobject-graph](https://github.com/Mobject-Dev-Team/mobject-graph)
   - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
   - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
   - [mobject-serialization](https://github.com/Mobject-Dev-Team/mobject-serialization)

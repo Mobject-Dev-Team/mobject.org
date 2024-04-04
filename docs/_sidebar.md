@@ -14,10 +14,12 @@
 - Libraries (Alpha)
 
   - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
+  - [mobject-deserialization](http://deserialization.mobject.org)
+  - [mobject-errors](https://errors.mobject.org)
   - [mobject-graph](https://github.com/Mobject-Dev-Team/mobject-graph)
   - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
   - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
-  - [mobject-serialization](https://github.com/Mobject-Dev-Team/mobject-serialization)
+  - [mobject-serialization](https://serialization.mobject.org)
   - [mobject-server](http://server.mobject.org)
 
 - Libraries (Pre-Alpha)

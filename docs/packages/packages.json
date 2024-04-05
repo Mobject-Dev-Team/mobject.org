@@ -8,6 +8,9 @@
     "https://github.com/Mobject-Dev-Team/mobject-deserialization",
     "https://github.com/Mobject-Dev-Team/mobject-errors",
     "https://github.com/Mobject-Dev-Team/mobject-enumerable",
-    "https://github.com/Mobject-Dev-Team/mobject-graph"
+    "https://github.com/Mobject-Dev-Team/mobject-graph",
+    "https://github.com/Mobject-Dev-Team/mobject-server",
+    "https://github.com/Mobject-Dev-Team/mobject-json",
+    "https://github.com/Mobject-Dev-Team/mobject-converters"
   ]
 }

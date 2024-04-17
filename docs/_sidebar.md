@@ -14,6 +14,7 @@
 - Libraries (Alpha)
 
   - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
+  - [mobject-datatypes](http://datatypes.mobject.org)
   - [mobject-deserialization](http://deserialization.mobject.org)
   - [mobject-errors](https://errors.mobject.org)
   - [mobject-graph](https://github.com/Mobject-Dev-Team/mobject-graph)

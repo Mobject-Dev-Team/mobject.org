@@ -1,17 +1,18 @@
 {
   "repositories": [
     "https://github.com/Mobject-Dev-Team/mobject-disposable",
+    "https://github.com/Mobject-Dev-Team/mobject-enumerable",
+    "https://github.com/Mobject-Dev-Team/mobject-constants",
+    "https://github.com/Mobject-Dev-Team/mobject-converters",
     "https://github.com/Mobject-Dev-Team/mobject-events",
-    "https://github.com/Mobject-Dev-Team/mobject-datatypes",
     "https://github.com/Mobject-Dev-Team/mobject-collections",
     "https://github.com/Mobject-Dev-Team/mobject-serialization",
-    "https://github.com/Mobject-Dev-Team/mobject-deserialization",
     "https://github.com/Mobject-Dev-Team/mobject-errors",
-    "https://github.com/Mobject-Dev-Team/mobject-enumerable",
-    "https://github.com/Mobject-Dev-Team/mobject-graph",
-    "https://github.com/Mobject-Dev-Team/mobject-server",
+    "https://github.com/Mobject-Dev-Team/mobject-deserialization",
     "https://github.com/Mobject-Dev-Team/mobject-json",
-    "https://github.com/Mobject-Dev-Team/mobject-converters",
-    "https://github.com/Mobject-Dev-Team/mobject-constants"
-  ]
+     "https://github.com/Mobject-Dev-Team/mobject-server",
+    "https://github.com/Mobject-Dev-Team/mobject-datatypes",
+    "https://github.com/Mobject-Dev-Team/mobject-basic-datatypes",
+    "https://github.com/Mobject-Dev-Team/mobject-graph"
+   ]
 }

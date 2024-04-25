@@ -12,10 +12,11 @@
     "https://github.com/Mobject-Dev-Team/mobject-json",
     "https://github.com/Mobject-Dev-Team/mobject-server",
     "https://github.com/Mobject-Dev-Team/mobject-datatypes",
+    "https://github.com/Mobject-Dev-Team/mobject-graph",
+    "https://github.com/Mobject-Dev-Team/mobject-graph-api",
     "https://github.com/Mobject-Dev-Team/mobject-basic-datatypes",
     "https://github.com/Mobject-Dev-Team/mobject-basic-nodepack",
     "https://github.com/Mobject-Dev-Team/mobject-vision-datatypes",
-    "https://github.com/Mobject-Dev-Team/mobject-vision-nodepack",
-    "https://github.com/Mobject-Dev-Team/mobject-graph"
+    "https://github.com/Mobject-Dev-Team/mobject-vision-nodepack"
    ]
 }

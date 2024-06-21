@@ -4,33 +4,13 @@
 
 - Libraries (Beta)
 
-  - [mobject-collections](http://collections.mobject.org)
-  - [mobject-converters](http://converters.mobject.org)
-  - [mobject-disposable](https://disposable.mobject.org)
-  - [mobject-enumerable](http://enumerable.mobject.org)
-  - [mobject-events](http://events.mobject.org)
-  - [mobject-json](http://json.mobject.org)
+  - [mobject-core](http://core.mobject.org)
 
 - Libraries (Alpha)
 
-  - [mobject-commands](https://github.com/Mobject-Dev-Team/mobject-commands)
-  - [mobject-datatypes](http://datatypes.mobject.org)
-  - [mobject-deserialization](http://deserialization.mobject.org)
-  - [mobject-errors](https://errors.mobject.org)
   - [mobject-graph](https://github.com/Mobject-Dev-Team/mobject-graph)
   - [mobject-reports](https://github.com/Mobject-Dev-Team/mobject-reports)
-  - [mobject-promises](https://github.com/Mobject-Dev-Team/mobject-promises)
-  - [mobject-serialization](https://serialization.mobject.org)
   - [mobject-server](http://server.mobject.org)
-
-- Libraries (Pre-Alpha)
-
-  - [mobject-build-server](tba.md)
-  - [mobject-documentation-generator](tba.md)
-  - [mobject-condition-monitoring](tba.md)
-  - [mobject-cyclic](tba.md)
-  - [mobject-iot](tba.md)
-  - [mobject-motion](tba.md)
 
 - Companion App (Alpha)
 

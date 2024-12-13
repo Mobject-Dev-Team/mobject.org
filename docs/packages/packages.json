@@ -3,7 +3,7 @@
     "https://github.com/Mobject-Dev-Team/mobject-core",
     "https://github.com/Mobject-Dev-Team/mobject-server",
     "https://github.com/Mobject-Dev-Team/mobject-graph",
-    "https://github.com/Mobject-Dev-Team/mobject-basic-nodepack",
-    "https://github.com/Mobject-Dev-Team/mobject-vision-nodepack"
+    "https://github.com/Mobject-Dev-Team/mobject-graph-plc-pack",
+    "https://github.com/Mobject-Dev-Team/mobject-graph-vision-pack"
    ]
 }

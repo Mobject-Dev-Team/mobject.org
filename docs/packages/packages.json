@@ -4,6 +4,7 @@
     "https://github.com/Mobject-Dev-Team/mobject-server",
     "https://github.com/Mobject-Dev-Team/mobject-graph",
     "https://github.com/Mobject-Dev-Team/mobject-graph-plc-pack",
+    "https://github.com/Mobject-Dev-Team/mobject-graph-math-pack",
     "https://github.com/Mobject-Dev-Team/mobject-graph-vision-pack"
    ]
 }
